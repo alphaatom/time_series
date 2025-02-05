@@ -10,7 +10,7 @@ However, many real-world time-series datasets exhibit seasonal effects. To addre
 
 To run this project, ensure you have the following Python libraries installed:
 
-''' python pip install pandas numpy matplotlib statsmodels scikit-learn
+``` python pip install pandas numpy matplotlib statsmodels scikit-learn ```
 
 ### Required Libraries:
 
